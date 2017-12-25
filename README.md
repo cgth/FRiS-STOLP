@@ -18,3 +18,5 @@ FRiS(a,b,x)=(p(a,x)-p(a,b))/(p(a,x)+p(a,b))
 1. http://www.pvsm.ru/pesochnitsa/10682
 2. http://www.machinelearning.ru/wiki/index.php?title=FRiS-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F
 3. http://www.machinelearning.ru/wiki/index.php?title=%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%A1%D0%A2%D0%9E%D0%9B%D0%9F
+
+![f](https://user-images.githubusercontent.com/33224690/34342804-b5261e86-e970-11e7-92d4-6f413effc382.png)
